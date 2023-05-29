@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pjQTAIe6LV4jsNIwy7/bM75UDkOhLa6OuNIQmnw2DrQ=",
+  "Source": "ng-todo-server",
+  "BasePath": "_content/ng-todo-server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

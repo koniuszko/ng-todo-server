@@ -3,10 +3,8 @@ namespace ng_todo_server;
 public class Task
 {
     
-    public int id { get; set; }
-    
-    public string taskName { get; set; }
-    
-    public bool isDone { get; set; }
+    public string? Id { get; set; }
+    public string TaskName { get; set; }
+    public bool IsDone { get; set; }
     
 }
